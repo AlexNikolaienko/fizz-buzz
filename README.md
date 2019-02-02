@@ -1,2 +1,2 @@
 # fizz-buzz
-Sashka - Cheburashka
+## Bazz - Karabazz
